@@ -37,6 +37,7 @@ public class SubController
 		if(!doingStuff.crustomizer(input))
 		{
 			doingStuff.setRandomColors(num32);
+			UIManager.put
 		}
 		
 		if(doingStuff.crustomizer(input))
